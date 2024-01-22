@@ -1,0 +1,8 @@
+GET http://localhost:3000/subscribers;
+
+###
+GET http://localhost:3000/newdb/12;
+
+###
+
+POST http://localhost:3000/subscribers;
